@@ -5,7 +5,7 @@ This package expands English contractions, this is useful for essay writing.
 # Installation
 
 ```
-espanso install expand-contractions-en https://github.com/lewisblackburn/espanso-expand-contractions-en --external
+espanso install --external --git https://github.com/lewisblackburn/espanso-expand-contractions-en expand-contractions-en
 espanso restart
 ```
 

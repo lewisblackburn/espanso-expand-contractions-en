@@ -286,4 +286,125 @@ matches:
 
   - trigger: "they'd"
     replace: "they had"
-    word:
+    word: true
+    propagate_case: true
+
+  - trigger: "I'll"
+    replace: "I will"
+    word: true
+    propagate_case: true
+
+  - trigger: "I'll"
+    replace: "I shall"
+    word: true
+    propagate_case: true
+
+  - trigger: "you'll"
+    replace: "you will"
+    word: true
+    propagate_case: true
+
+  - trigger: "you'll"
+    replace: "you shall"
+    word: true
+    propagate_case: true
+
+  - trigger: "he'll"
+    replace: "he will"
+    word: true
+    propagate_case: true
+
+  - trigger: "he'll"
+    replace: "he shall"
+    word: true
+    propagate_case: true
+
+  - trigger: "she'll"
+    replace: "she will"
+    word: true
+    propagate_case: true
+
+  - trigger: "she'll"
+    replace: "she shall"
+    word: true
+    propagate_case: true
+
+  - trigger: "we'll"
+    replace: "we will"
+    word: true
+    propagate_case: true
+
+  - trigger: "we'll"
+    replace: "we shall"
+    word: true
+    propagate_case: true
+
+  - trigger: "they'll"
+    replace: "they will"
+    word: true
+    propagate_case: true
+
+  - trigger: "they'll"
+    replace: "they shall"
+    word: true
+    propagate_case: true
+
+  - trigger: "I'm"
+    replace: "I am"
+    word: true
+    propagate_case: true
+
+  - trigger: "you're"
+    replace: "you are"
+    word: true
+    propagate_case: true
+
+  - trigger: "he's"
+    replace: "he is"
+    word: true
+    propagate_case: true
+
+  - trigger: "she's"
+    replace: "she is"
+    word: true
+    propagate_case: true
+
+  - trigger: "we're"
+    replace: "we are"
+    word: true
+    propagate_case: true
+
+  - trigger: "they're"
+    replace: "they are"
+    word: true
+    propagate_case: true
+
+  - trigger: "I've"
+    replace: "I have"
+    word: true
+    propagate_case: true
+
+  - trigger: "you've"
+    replace: "you have"
+    word: true
+    propagate_case: true
+
+  - trigger: "we've"
+    replace: "we have"
+    word: true
+    propagate_case: true
+
+  - trigger: "they've"
+    replace: "they have"
+    word: true
+    propagate_case: true
+      
+  - trigger: "would've"
+    replace: "would have"
+    word: true
+    propagate_case: true
+      
+  - trigger: "should've"
+    replace: "should have"
+    word: true
+    propagate_case: true
